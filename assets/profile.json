@@ -1,0 +1,217 @@
+{
+  "name": "Keyu Zhu",
+  "preferred_name": "Colby",
+  "display_name": "Keyu Zhu / Colby",
+  "location": "London, UK",
+  "linkedin": "https://www.linkedin.com/in/keyu-zhu-75540429a/",
+  "headline": "People analytics · Psychology · Data visualisation",
+  "short_bio": "I’m Keyu Zhu (Colby), an MSc student in People Analytics and Human-Centric Management at UCL. My background in psychology informs my interests in human behaviour, research and data visualisation.",
+  "about": "I studied Psychology at the University of Warwick before joining UCL’s School of Management. My research experience spans attention and emotion, decision-making and language learning, and donor mental health. Internships in user research and public affairs have also given me experience working with feedback, content and audience data.",
+  "education": [
+    {
+      "institution": "University College London",
+      "school": "School of Management",
+      "qualification": "MSc People Analytics and Human-Centric Management",
+      "location": "London, UK",
+      "start": "2026-09",
+      "end": "2027-09",
+      "status": "in_progress",
+      "date_display": "Sep 2026 — Sep 2027 (expected)",
+      "topics": [
+        "People Analytics",
+        "Strategic Human Resources Management",
+        "Data Visualisation",
+        "Leadership and Communication",
+        "Sustainable Work Design",
+        "Organisational Behaviour",
+        "Influence and Negotiations",
+        "Managing Diversity"
+      ]
+    },
+    {
+      "institution": "University of Warwick",
+      "qualification": "BSc Psychology",
+      "classification": "High 2:1",
+      "location": "Coventry, UK",
+      "start": "2023-09",
+      "end": "2026-06",
+      "status": "completed",
+      "date_display": "Sep 2023 — Jun 2026",
+      "topics": [
+        "Research Methods",
+        "Social Psychology",
+        "Individual Differences",
+        "Brain & Behaviour",
+        "Neuropsychology & Psychopathology",
+        "Psychobiology",
+        "Digital Business"
+      ]
+    }
+  ],
+  "research": [
+    {
+      "id": "attentional-blink",
+      "title": "Instruction Effects on the Attentional Blink for Negative Words",
+      "role": "Undergraduate dissertation (individual)",
+      "location": "Coventry, UK",
+      "start": "2026-01",
+      "end": "2026-05",
+      "date_display": "Jan — May 2026",
+      "summary": "Investigated whether emotion-focused instructions affected the identification of negative words during the attentional blink.",
+      "details": [
+        "Designed a 2 × 2 rapid serial visual presentation experiment, manipulating instruction type and target lag.",
+        "Implemented the experiment in PsychoPy and Pavlovia; measured second-target accuracy conditional on correct first-target identification (T2 | T1).",
+        "Evaluated the implications for emotional processing and attentional control."
+      ],
+      "tools": [
+        "PsychoPy",
+        "Pavlovia",
+        "Experimental design"
+      ]
+    },
+    {
+      "id": "distinction-bias",
+      "title": "Impact of Distinction Bias on Decision and Language Learning",
+      "role": "Coursework research",
+      "location": "Coventry, UK",
+      "start": "2025-01",
+      "end": "2025-05",
+      "date_display": "Jan — May 2025",
+      "summary": "Examined how comparisons between options can influence artificial-vocabulary learning.",
+      "details": [
+        "Collected more than 150 questionnaire responses using picture-matching tasks, spelling and multiple-choice questions.",
+        "Used Python for data cleaning and SPSS for statistical analysis.",
+        "Considered how decision-making bias mechanisms apply to learning contexts."
+      ],
+      "tools": [
+        "Python",
+        "SPSS",
+        "Survey research"
+      ]
+    },
+    {
+      "id": "liver-donor-mental-health",
+      "title": "Psychological Health Scale for Liver Donors",
+      "role": "Research assistant",
+      "location": "Shanghai, China",
+      "start": "2025-07",
+      "end": null,
+      "date_display": "Jul 2025 — present",
+      "summary": "Contributed to research on the mental health of voluntary liver donors.",
+      "details": [
+        "Worked with the Beck Scale for Suicide Ideation (BSS) and Meaning in Life Questionnaire (MLQ).",
+        "Investigated the relationship between recipient recovery and donor psychological wellbeing through hospital fieldwork."
+      ],
+      "tools": [
+        "Psychological assessment",
+        "Field research"
+      ]
+    },
+    {
+      "id": "smartphone-addiction-review",
+      "title": "Analysis of Smartphone Addiction Today: A Literature Review",
+      "role": "Researcher — team assignment",
+      "location": "Online",
+      "start": "2022-07",
+      "end": "2022-10",
+      "date_display": "Jul — Oct 2022",
+      "summary": "Contributed to a team literature review on smartphone addiction.",
+      "details": [
+        "Independently compiled chapters on four treatment intervention programmes and research conclusions and prospects."
+      ],
+      "tools": [
+        "Literature review",
+        "Research writing"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "id": "bilibili",
+      "organisation": "Bilibili Inc.",
+      "role": "Public Affairs Department intern",
+      "location": "Shanghai, China",
+      "start": "2024-08",
+      "end": "2024-09",
+      "date_display": "Aug — Sep 2024",
+      "summary": "Supported digital platform content, audience feedback analysis and event coordination.",
+      "details": [
+        "Maintained online content across websites, social media and cooperative channels.",
+        "Monitored traffic data and user feedback from promotional activities.",
+        "Supported planning and execution of a gala project, coordinating requirements and schedules with external partners."
+      ]
+    },
+    {
+      "id": "paper-games",
+      "organisation": "Shanghai Paper Games Technology Co., Ltd",
+      "role": "User Research Department intern",
+      "location": "Shanghai, China",
+      "start": "2024-07",
+      "end": "2024-08",
+      "date_display": "Jul — Aug 2024",
+      "summary": "Worked on player satisfaction research, feedback organisation and competitor analysis.",
+      "details": [
+        "Designed and distributed a satisfaction survey for Miracle Nikki (Open Beta Version).",
+        "Organised player feedback and translated findings into structured user insight summaries for the operations team.",
+        "Combined competitor research, market context and user feedback in analysis reports."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Billiards Club",
+      "role": "Club member",
+      "location": "Coventry, UK",
+      "date_display": "Sep 2023",
+      "summary": "Practised and exchanged techniques with international students."
+    },
+    {
+      "title": "Cognitive Impairment — Public Welfare Research Seminar",
+      "role": "Participant",
+      "location": "Shanghai, China",
+      "date_display": "Nov 2022 · nine-week course",
+      "summary": "Took part in academic discussion, poster design, presentations and public welfare activity for older people with dementia.",
+      "details": [
+        "Delivered a presentation titled “Mild Cognitive Impairment” to promote awareness of early screening."
+      ]
+    }
+  ],
+  "skills": {
+    "research": [
+      "Experimental design",
+      "Survey research",
+      "Literature review",
+      "Data cleaning",
+      "Statistical analysis"
+    ],
+    "software": [
+      "Python",
+      "R Statistics",
+      "SPSS",
+      "PsychoPy",
+      "Pavlovia",
+      "Microsoft Office"
+    ],
+    "languages": [
+      {
+        "language": "Mandarin",
+        "level": "Native"
+      },
+      {
+        "language": "English",
+        "level": "Proficient",
+        "detail": "TOEFL 107/120"
+      }
+    ]
+  },
+  "hobbies": [
+    "Band",
+    "Guitar",
+    "Music"
+  ],
+  "source_note": "Based on the user-supplied CV. Achievements and research descriptions are self-reported and have not been independently verified.",
+  "content_as_of": "2026-11-06",
+  "instagram": "https://www.instagram.com/colby51371/",
+  "facebook": "https://www.facebook.com/profile.php?id=61551567443703",
+  "hometown": "Shanghai, China"
+}
